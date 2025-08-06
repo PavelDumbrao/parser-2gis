@@ -7,3 +7,4 @@ lxml
 beautifulsoup4
 chromedriver-autoinstaller
 pychrome
+psutil
